@@ -36,3 +36,4 @@ print("Cilova destinace:", cilova_stanice)
 print("Cena jizdneho:", finalni_cena, ",-Kč")
 print("Jizdenku jsme odeslali na e-mail", email)
 
+
